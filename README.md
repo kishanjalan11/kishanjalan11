@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kishan-kumar-jalan-517497246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Utkarash Thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishan-kumar-jalan-517497246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan Jalan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">
@@ -48,5 +48,5 @@ Activity Graph:
 <h3 align="left">
 GitHub Stats:
 </h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=kishanjalan11&theme=tokyonight&border_radius=10" alt="ShaswatSRaghuvansi" height="250px" width="47%" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=kishanjalan11&theme=tokyonight&border_radius=10" alt="Kishan Jalan" height="250px" width="47%" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kishanjalan11&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
