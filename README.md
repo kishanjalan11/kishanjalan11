@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **kishanjalan01@gmail.com**
 
-- 📄 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1UntSq5UtsdW3nwPOXWk4Fm9BJscPOozZ/view?usp=sharing)
+- 📄 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1jZQJhs1CBY7TBpynnwTvuv7wlWB5hLeF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
